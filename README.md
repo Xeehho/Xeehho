@@ -1,4 +1,12 @@
-<img src="assets/banner.svg" width="100%" alt="XEEHHO pixel banner" />
+<img src="assets/banner.svg" width="100%" alt="XEEHHO Minecraft pixel banner" />
+
+<p align="center">
+  <img src="assets/creeper.svg" width="40" alt="creeper" />
+  <img src="assets/diamond.svg" width="40" alt="diamond" />
+  <img src="assets/chest.svg" width="40" alt="chest" />
+  <img src="assets/crafting.svg" width="40" alt="crafting" />
+  <img src="assets/creeper.svg" width="40" alt="creeper" />
+</p>
 
 ### 关于我
 
@@ -12,10 +20,13 @@
 
 ### 正在开发 / Now Building
 
-<a href="https://github.com/Xeehho/kufuworld">
-  <img src="https://img.shields.io/badge/KufuWorld-Godot%20%20%7C%20%20GDScript-5D9C3D?style=for-the-badge&logo=godotengine&logoColor=white" alt="KufuWorld" />
-</a>
-<br />
+<p>
+  <img src="assets/diamond.svg" width="48" alt="diamond" />
+  &nbsp;
+  <a href="https://github.com/Xeehho/kufuworld">
+    <img src="https://img.shields.io/badge/KufuWorld-Godot%20%20%7C%20%20GDScript-5D9C3D?style=for-the-badge&logo=godotengine&logoColor=white" alt="KufuWorld" />
+  </a>
+</p>
 <sub>一款用 Godot 引擎从零打造的独立游戏，代码全程公开。</sub>
 
 <img src="assets/divider.svg" width="100%" alt="divider" />
@@ -41,6 +52,8 @@
 ### 技术栈 / Tech Stack
 
 <p>
+  <img src="assets/chest.svg" width="44" alt="skill chest" />
+  &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -53,11 +66,19 @@
 </p>
 
 <p align="center">
+  <img src="assets/crafting.svg" width="44" alt="crafting" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xeehho&theme=gruvbox" alt="stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xeehho&theme=gruvbox" alt="langs" />
   <br />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xeehho&theme=gruvbox" alt="repos" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xeehho&theme=gruvbox&utc=8" alt="productive time" />
+  <img src="assets/crafting.svg" width="44" alt="crafting" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="footer" />
+
+<p align="center">
+  <img src="assets/flower.svg" width="36" alt="flower" />
+  <img src="assets/sheep.svg" width="36" alt="sheep" />
+  <img src="assets/flower.svg" width="36" alt="flower" />
+</p>
