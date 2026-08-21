@@ -16,7 +16,7 @@
 
 热门插件库 **dsh-web-ui** 贡献者之一，深度参与皮肤中心 / Wallpaper Engine 壁纸模块的架构修复。
 
-<img src="assets/divider.svg" width="100%" alt="divider" />
+<img src="assets/divider-rich.svg" width="100%" alt="terrain" />
 
 ### 正在开发 / Now Building
 
@@ -29,7 +29,7 @@
 </p>
 <sub>一款用 Godot 引擎从零打造的独立游戏，代码全程公开。</sub>
 
-<img src="assets/divider.svg" width="100%" alt="divider" />
+<img src="assets/divider-path.svg" width="100%" alt="path" />
 
 ### 开源贡献 / Open Source
 
@@ -53,12 +53,16 @@
 
 <p>
   <img src="assets/chest.svg" width="44" alt="skill chest" />
-  &nbsp;
+  <br /><br />
+  <b>前端 / Frontend</b>
+  <br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Taro-5D9C3D?style=flat-square&logo=taro&logoColor=white" />
+  <br /><br />
+  <b>AI 应用 / AI Engineering</b>
   <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-4A7F2E?style=flat-square&logo=langchain&logoColor=white" />
@@ -75,7 +79,7 @@
   <img src="assets/crafting.svg" width="44" alt="crafting" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="footer" />
+<img src="assets/divider-rich.svg" width="100%" alt="footer" />
 
 <p align="center">
   <img src="assets/flower.svg" width="36" alt="flower" />
