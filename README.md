@@ -58,8 +58,8 @@ const xeehho = {
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Xeehho&show_icons=true&theme=midnight-purple&hide_border=true" alt="stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeehho&layout=compact&theme=midnight-purple&hide_border=true" alt="langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xeehho&theme=radical" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xeehho&theme=radical" alt="langs" />
 </p>
 
 <a href="https://github.com/Xeehho">
