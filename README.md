@@ -8,9 +8,7 @@
   <img src="assets/creeper.svg" width="40" alt="creeper" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
+<img align="right" src="assets/iron-golem.svg" width="160" alt="Iron Golem figurine" />
 
 ### 关于我
 
@@ -29,12 +27,7 @@
 </p>
 <sub>一款用 Godot 引擎从零打造的独立游戏，代码全程公开。</sub>
 
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="assets/iron-golem.svg" width="160" alt="Iron Golem figurine" />
-    </td>
-  </tr>
-</table>
+<br clear="right" />
 
 <img src="assets/divider-path.svg" width="100%" alt="path" />
 
