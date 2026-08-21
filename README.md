@@ -1,11 +1,5 @@
 <img src="assets/banner.svg" width="100%" alt="XEEHHO pixel banner" />
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Xeehho&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-  </a>
-</p>
-
 ### 关于我
 
 个人游戏独立开发者，正在使用 Godot 引擎开发独立游戏 **KufuWorld**（进行中），一人承担玩法设计、程序开发与资源管线。
@@ -61,6 +55,9 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xeehho&theme=gruvbox" alt="stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xeehho&theme=gruvbox" alt="langs" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xeehho&theme=gruvbox" alt="repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xeehho&theme=gruvbox&utc=8" alt="productive time" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="footer" />
