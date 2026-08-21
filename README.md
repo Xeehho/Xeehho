@@ -8,6 +8,10 @@
   <img src="assets/creeper.svg" width="40" alt="creeper" />
 </p>
 
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+
 ### 关于我
 
 个人游戏独立开发者，正在使用 Godot 引擎开发独立游戏 **KufuWorld**（进行中），一人承担玩法设计、程序开发与资源管线。
@@ -16,18 +20,21 @@
 
 热门插件库 **dsh-web-ui** 贡献者之一，深度参与皮肤中心 / Wallpaper Engine 壁纸模块的架构修复。
 
-<img src="assets/divider-rich.svg" width="100%" alt="terrain" />
-
 ### 正在开发 / Now Building
 
 <p>
-  <img src="assets/diamond.svg" width="48" alt="diamond" />
-  &nbsp;
   <a href="https://github.com/Xeehho/kufuworld">
     <img src="https://img.shields.io/badge/KufuWorld-Godot%20%20%7C%20%20GDScript-5D9C3D?style=for-the-badge&logo=godotengine&logoColor=white" alt="KufuWorld" />
   </a>
 </p>
 <sub>一款用 Godot 引擎从零打造的独立游戏，代码全程公开。</sub>
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="assets/iron-golem.svg" width="160" alt="Iron Golem figurine" />
+    </td>
+  </tr>
+</table>
 
 <img src="assets/divider-path.svg" width="100%" alt="path" />
 
