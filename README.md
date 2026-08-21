@@ -8,22 +8,21 @@
   </a>
 </p>
 
-### 关于我 / About me
+### 关于我
 
-```ts
-const xeehho = {
-  focus: ['Cross-platform Frontend', 'AI Application Engineering'],
-  stack: {
-    frontend: ['JavaScript', 'TypeScript', 'HTML5', 'React', 'Taro'],
-    ai: ['Python', 'LangChain', 'LangGraph'],
-  },
-  opensource: 'dsh-web-ui contributor',
-  motto: 'Ship fixes, not excuses.',
-}
-```
+个人游戏独立开发者，正在使用 Godot 引擎开发独立游戏 **KufuWorld**（进行中），一人承担玩法设计、程序开发与资源管线。
 
-- 跨端前端开发（React / Taro 小程序多端）+ AI Agent 应用工程（LangChain / LangGraph 工作流编排）
-- 热门插件库 **dsh-web-ui**（DeepSeek Harness 生态的 Web GUI 插件与皮肤全家桶）贡献者之一，深度参与皮肤中心 / Wallpaper Engine 壁纸模块的架构修复
+写游戏之余也写工具：技术底色是跨端前端（React / Taro / TypeScript）与 AI 应用工程（Python / LangChain / LangGraph），擅长把工程化与 AI 工作流引入独立开发，一个人跑完从设计到发布的全流程。
+
+热门插件库 **dsh-web-ui** 贡献者之一，深度参与皮肤中心 / Wallpaper Engine 壁纸模块的架构修复。
+
+### 正在开发 / Now Building
+
+<a href="https://github.com/Xeehho/kufuworld">
+  <img src="https://img.shields.io/badge/KufuWorld-Godot%20%20%7C%20%20GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="KufuWorld" />
+</a>
+<br />
+<sub>一款用 Godot 引擎从零打造的独立游戏，代码全程公开。</sub>
 
 ### 开源贡献 / Open Source
 
