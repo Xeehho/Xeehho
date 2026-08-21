@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Xeehho&v=2&hide_border=true&date_format=%5BY.%5Dn.j&background=0D1117&border=5D9C3D&ring=5FBF4A&fire=FF7F27&currStreakLabel=5FBF4A&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Xeehho&theme=gruvbox&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
   </a>
 </p>
 
