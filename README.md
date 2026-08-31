@@ -57,11 +57,13 @@
     <td>
       <img src="https://img.shields.io/badge/dsh--desktop-contributor-4A7F2E?style=for-the-badge&logo=github&logoColor=white" alt="dsh-desktop contributor" />
       <br />
-      <sub>DSH 桌面客户端 · 插件加载与布局服务</sub>
+      <sub>DSH 桌面客户端 · <a href="https://github.com/anywhere-labs/dsh-desktop/graphs/contributors?from=2026%2F5%2F30">贡献者之一</a> · 插件加载与布局服务</sub>
       <br /><br />
-      <b>已提交的 PR：</b>
+      <b>已合入仓库的贡献：</b>
       <br />
       <a href="https://github.com/anywhere-labs/dsh-desktop/pull/518">#518</a> 桌面布局服务冲突降级 —— 插件与上游布局服务注册同名服务时安全让位，避免 cordis 整体回滚导致设置页样式消失
+      <br />
+      <a href="https://github.com/anywhere-labs/dsh-desktop/commit/2756dbc">→ 查看合入提交</a>
       <br /><br />
       <sub>另独立排查并修复过桌面端 lib/client.js 与宿主 lib/index.js 热更新不生效等运行时问题。</sub>
     </td>
