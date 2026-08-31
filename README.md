@@ -16,7 +16,7 @@
 
 写游戏之余也写工具：技术底色是跨端前端（React / Taro / TypeScript）与 AI 应用工程（Python / LangChain / LangGraph），擅长把工程化与 AI 工作流引入独立开发，一个人跑完从设计到发布的全流程。
 
-热门插件库 **dsh-web-ui** 贡献者之一，深度参与皮肤中心 / Wallpaper Engine 壁纸模块的架构修复。
+热门插件库 **dsh-web**（原 dsh-web-ui）与桌面端 **dsh-desktop** 贡献者之一，深度参与皮肤中心 / Wallpaper Engine 壁纸模块的架构修复。
 
 ### 正在开发 / Now Building
 
@@ -36,15 +36,34 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/dsh--web--ui-contributor-5D9C3D?style=for-the-badge&logo=github&logoColor=white" alt="dsh-web-ui contributor" />
+      <img src="https://img.shields.io/badge/dsh--web-contributor-5D9C3D?style=for-the-badge&logo=github&logoColor=white" alt="dsh-web contributor" />
       <br />
-      <sub>热门社区插件库 · 皮肤中心 / 壁纸引擎模块</sub>
+      <sub>热门社区插件库（原 dsh-web-ui）· 皮肤中心 / 壁纸引擎模块</sub>
       <br /><br />
       <b>已合并的代表性 PR：</b>
       <br />
-      <a href="https://github.com/zhu1090093659/dsh-web-ui/pull/793">#793</a> 场景提取缓存版本化 —— 修复插件升级后旧缓存不失效导致的壁纸显示异常
+      <a href="https://github.com/zhu1090093659/dsh-web/pull/793">#793</a> 场景提取缓存版本化 —— 修复插件升级后旧缓存不失效导致的壁纸显示异常
       <br />
-      <a href="https://github.com/zhu1090093659/dsh-web-ui/commits?author=Xeehho">→ 查看全部提交</a>
+      <a href="https://github.com/zhu1090093659/dsh-web/pull/784">#784</a> 壁纸表面 token 回退解析 —— html 上缺变量时从 body 兜底
+      <br />
+      <a href="https://github.com/zhu1090093659/dsh-web/pull/789">#789</a> 皮肤半透明面板按 scrim 契约缩放
+      <br />
+      <a href="https://github.com/zhu1090093659/dsh-web/pull/622">#622</a> 开机恢复持久化壁纸
+      <br />
+      <a href="https://github.com/zhu1090093659/dsh-web/pull/843">#843</a> / <a href="https://github.com/zhu1090093659/dsh-web/pull/853">#853</a> / <a href="https://github.com/zhu1090093659/dsh-web/pull/860">#860</a> 皮肤与壁纸互斥、live 模式降级等 UX 修复
+      <br />
+      <a href="https://github.com/zhu1090093659/dsh-web/commits?author=Xeehho">→ 查看全部提交</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/dsh--desktop-contributor-4A7F2E?style=for-the-badge&logo=github&logoColor=white" alt="dsh-desktop contributor" />
+      <br />
+      <sub>DSH 桌面客户端 · 插件加载与布局服务</sub>
+      <br /><br />
+      <b>已提交的 PR：</b>
+      <br />
+      <a href="https://github.com/anywhere-labs/dsh-desktop/pull/518">#518</a> 桌面布局服务冲突降级 —— 插件与上游布局服务注册同名服务时安全让位，避免 cordis 整体回滚导致设置页样式消失
+      <br /><br />
+      <sub>另独立排查并修复过桌面端 lib/client.js 与宿主 lib/index.js 热更新不生效等运行时问题。</sub>
     </td>
   </tr>
 </table>
