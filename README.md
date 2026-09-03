@@ -24,10 +24,37 @@
   <a href="https://github.com/Xeehho/kufuworld">
     <img src="https://img.shields.io/badge/KufuWorld-Godot%20%20%7C%20%20GDScript-5D9C3D?style=for-the-badge&logo=godotengine&logoColor=white" alt="KufuWorld" />
   </a>
+  <a href="https://github.com/Xeehho/kufuworld">
+    <img src="https://img.shields.io/badge/%E4%BB%A3%E7%A0%81%E5%85%A8%E7%A8%8B%E5%85%AC%E5%BC%80-%E2%9C%94-4A7F2E?style=for-the-badge&logo=github&logoColor=white" alt="open source" />
+  </a>
 </p>
-<sub>一款用 Godot 引擎从零打造的独立游戏，代码全程公开。</sub>
+<sub>一款用 Godot 引擎从零打造的 2D 武侠 RPG：气候驱动的程序化开放世界，一个人 = 玩法 + 程序 + 资源管线。</sub>
 
 <br clear="right" />
+
+<img src="assets/kufuworld-preview.png" width="100%" alt="KufuWorld 青石城南门实机截图：坊市、城墙与山地荒野" />
+
+<sub>▲ 青石城南门：坊市 / 城墙 / 山地荒野一图同框（实机截图，世界与贴图全部程序化生成）</sub>
+
+<br /><br />
+
+<details open>
+<summary><b>开发进度 / Progress（2026-09）</b></summary>
+<br />
+
+| 模块 | 状态 |
+|------|------|
+| 程序化世界：气候七群系 · 河流水文 · 山口垭口可行域规划 | ✅ |
+| 唐制城池「青石城」· 四门官道 · 7 村镇三模板 · 5 门派领地 | ✅ |
+| 战斗：三架势 / 连招树 / 破绽反击 + 18 武学 + 6 内功五行相克 | ✅ |
+| 任务告示板 / 20 种奇遇 / 誓约 / 供求定价商店 / 建造 / 农场 / 天气昼夜 / 死亡传承 | ✅ |
+| 主线剧情铺量 · 音效 BGM · 存档 · 小地图 | 🔨 进行中 |
+
+<sub>工程化底座：<b>118 项自动化回归断言全绿</b> · 71 个 GDScript 脚本（19,000+ 行）· 930 张程序化生成贴图 · 80+ 自研探针/验证工具 · AI 辅助开发工作流（Godot MCP 插件）</sub>
+
+</details>
+
+<br />
 
 <img src="assets/divider-path.svg" width="100%" alt="path" />
 
@@ -36,7 +63,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/dsh--web-contributor-5D9C3D?style=for-the-badge&logo=github&logoColor=white" alt="dsh-web contributor" />
+      <img src="https://img.shields.io/badge/dsh--web-7%20PRs%20merged-5D9C3D?style=for-the-badge&logo=github&logoColor=white" alt="dsh-web contributor" />
       <br />
       <sub>热门社区插件库（原 dsh-web-ui）· 皮肤中心 / 壁纸引擎模块</sub>
       <br /><br />
@@ -55,7 +82,7 @@
       <a href="https://github.com/zhu1090093659/dsh-web/commits?author=Xeehho">→ 查看全部提交</a>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/dsh--desktop-contributor-4A7F2E?style=for-the-badge&logo=github&logoColor=white" alt="dsh-desktop contributor" />
+      <img src="https://img.shields.io/badge/dsh--desktop-1%20PR%20%2B%20fixes-4A7F2E?style=for-the-badge&logo=github&logoColor=white" alt="dsh-desktop contributor" />
       <br />
       <sub>DSH 桌面客户端 · <a href="https://github.com/anywhere-labs/dsh-desktop/graphs/contributors?from=2026%2F5%2F30">贡献者之一</a> · 插件加载与布局服务</sub>
       <br /><br />
@@ -75,6 +102,12 @@
 <p>
   <img src="assets/chest.svg" width="44" alt="skill chest" />
   <br /><br />
+  <b>游戏开发 / Game Dev</b>
+  <br />
+  <img src="https://img.shields.io/badge/GDScript-35549E?style=flat-square&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot%204-5D9C3D?style=flat-square&logo=godotengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/%E7%A8%8B%E5%BA%8F%E5%8C%96%E7%94%9F%E6%88%90-Procedural%20Art-DAA520?style=flat-square" />
+  <br /><br />
   <b>前端 / Frontend</b>
   <br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -87,7 +120,7 @@
   <br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-4A7F2E?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-4A7F2E?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 </p>
 
 <p align="center">
@@ -104,6 +137,6 @@
 
 <p align="center">
   <img src="assets/flower.svg" width="36" alt="flower" />
-  <img src="assets/sheep.svg" width="36" alt="sheep" />
+  <img src="assets/sheep.svg" width="36" alt="flower" />
   <img src="assets/flower.svg" width="36" alt="flower" />
 </p>
