@@ -32,10 +32,6 @@
 
 <br clear="right" />
 
-<img src="assets/kufuworld-preview.png" width="100%" alt="KufuWorld 青石城南门实机截图：坊市、城墙与山地荒野" />
-
-<sub>▲ 青石城南门：坊市 / 城墙 / 山地荒野一图同框（实机截图，世界与贴图全部程序化生成）</sub>
-
 <br /><br />
 
 <details open>
